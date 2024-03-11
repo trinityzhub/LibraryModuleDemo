@@ -68,5 +68,5 @@ dependencies {
     debugImplementation("androidx.compose.ui:ui-test-manifest")
 
     //implementation (project(":networkmodule"))
-    implementation ("com.github.sonusurender:LibraryModuleDemo:1.0.8")
+    implementation ("com.github.trinityzhub:LibraryModuleDemo:1.0.8")
 }
